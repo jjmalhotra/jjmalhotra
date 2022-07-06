@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, I am Jyoti Malhotra
-I am currently working on the web development using React JS, Tailwind, Bootstrap, Python and Flask <br>I am learning Typescript, AWS Cloud architecture 
+I am currently working on the web development using React JS, Tailwind, Bootstrap, Python and Flask <br>I am learning Typescript, AWS Cloud architecture <br> You can reach me out at my email ID - jyoti.j.malhotra@gmail.com
 
 
 ## 🌐 Socials:
